@@ -1,4 +1,4 @@
-# facebook-ads-connector
+# Facebook Ads Connector
 
 With the Facebook Ads Connector for Google Data Studio you can report the most important statistics of your Facebook Ads account. When you connect Facebook Ads to Data Studio (with our connector) it will bring you some advantages, for example:
 
